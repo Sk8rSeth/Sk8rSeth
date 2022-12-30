@@ -1,5 +1,5 @@
 <h1 style="text-align: center">
-  Hello There! I'm Seth (a.k.a Sk8rSeth)
+  Hello There! I'm Seth (a.k.a Sk8rSeth for nearly 2 decades now)
 </h1>
 
 <ul style="list-style: none; padding: 0; margin:0; text-align: center">
