@@ -20,7 +20,7 @@
   </li>
   <li>
     <h2>
-      Check out my <a target=_blank href="https://SethDoes.dev">website.</a>
+      Check out my <a target=_blank href="https://SethDoes.dev">portfolio.</a>
     </h2>
   </li>
   <li>
